@@ -1,0 +1,23 @@
+1.done
+
+2.
+git clone https://github.com/FatmaKhaled/opensource3030
+create my file
+git pull origin main
+git push origin main
+
+3.
+git init
+create a project
+git add .
+git commit -m "commit message"
+git remote -v
+git add origin https://github.com/beshoynabeih/tesstrepo-iti-VC
+git remote -v
+git push origin master
+git remote rm origin 
+git remote add origin https://beshoynabeih@bitbucket.org/beshoynabeih/iti-opensource-test.git
+git pull --allow-unrelated-histories origin master
+git push origin master
+
+
